@@ -11,11 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Gordon Duffley # add your name
 author-img: headshot.png # add your photo
-about-author: |
-    Neural Engineering \n
-    PhD Candidate \n
-    Butson Lab \n
-    University of Utah \n
+about-author: >
+    Neural Engineering
+    PhD Candidate
+    Butson Lab
+    Test
+    University of Utah
 social-twitter: gordonduffley
 social-facebook: # add your Facebook handle
 social-github: gduffley # add your Github handle
