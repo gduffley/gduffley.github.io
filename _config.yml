@@ -35,30 +35,3 @@ paginate: 8
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
-
-emptyArray: []
-
- comments:
-  receiver: https://haacked-blog.azurewebsites.net/api/PostComment
-
- authors:
-  haacked:
-    name: haacked
-    email: haacked@gmail.com
-    url: https://haacked.com
-
- defaults:
-  -
-    scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
-      author: haacked
-  -
-    scope:
-      path: '_posts'
-      type: posts
-    values:
-      layout: post
-      author: haacked
