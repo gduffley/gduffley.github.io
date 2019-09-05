@@ -1,5 +1,8 @@
 ---
-layout: story
+layout: cv
 title: Story Title Goes Here
 description: "The story description text goes here"
+category: cv
+permalink: /cv/
 ---
+Test
